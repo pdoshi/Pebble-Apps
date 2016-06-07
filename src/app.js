@@ -7,7 +7,9 @@ var totalitems;
 // Create card to fetch news highlights
 var card = new UI.Card({
   title:'NYTimes Trending',
+  titleColor: 'red',
   subtitle:'Fetching....',
+  subtitleColor: 'blue',
   scrollable: true,
   style: 'small'
 });
