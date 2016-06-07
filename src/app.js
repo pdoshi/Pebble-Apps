@@ -28,8 +28,6 @@ ajax(
   function(data) {
     //Success!
     console.log("News fetching successful!");
-    //var headline=main.section.title;
-    //console.log(data);
     
     //Extract data
     totalitems = data.num_results;
