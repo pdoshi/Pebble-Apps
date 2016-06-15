@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "pooja0212@gmail.com",
-    "longName": "NYTimes Trending News App",
+    "longName": "NEWS APP Extended",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -32,17 +32,17 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "NYTimes News",
+    "shortName": "NEWS APP Extended",
     "targetPlatforms": [
         "aplite",
         "basalt",
         "chalk"
     ],
-    "uuid": "7a4988c7-359f-4731-9522-150873d96531",
+    "uuid": "4e7e5753-ceec-4f30-a5b0-37e97937993d",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
         "hiddenApp": false,
-        "watchface": false
+        "watchface": true
     }
 }
