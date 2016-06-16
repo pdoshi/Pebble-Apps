@@ -49,7 +49,7 @@ splashWindow.add(text);
 splashWindow.show();
 
 // Construct URL
-var myApiKey = '7b5d6fcee13c44589b363ba2f08d2afc';
+var myApiKey = '';
 var URL = 'https://api.nytimes.com/svc/topstories/v2/home.json?api-key=' + myApiKey;
 console.log(URL);
 
