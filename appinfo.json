@@ -1,7 +1,8 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "location",
+        "configurable"
     ],
     "companyName": "pooja0212@gmail.com",
     "longName": "NEWS APP Extended",
@@ -43,6 +44,6 @@
     "versionLabel": "1.0",
     "watchapp": {
         "hiddenApp": false,
-        "watchface": true
+        "watchface": false
     }
 }
